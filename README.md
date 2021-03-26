@@ -1,7 +1,7 @@
 # Stack Overflow Survey Analysis
 
 ## Project Motivation
-I used Stack Overflow Survey 2018-2020 datasets to explore and understand:
+I used the Stack Overflow Survey 2018-2020 datasets to explore and understand:
 
 * What were the trends in the usage of a particular programming language from year to year?
 * How do developers approach problems that they're stuck on?
