@@ -20,4 +20,4 @@ My repository contains exploratory data analysis on each question that I explore
 
 ## Results
 
-My findings can be found [here](https://insights.stackoverflow.com/survey) in medium blog post that I wrote.
+My findings can be found [here](https://bhavinpatel0924.medium.com/stackoverflow-survey-2020-analysis-78b0f493bf73) in medium blog post that I wrote.
