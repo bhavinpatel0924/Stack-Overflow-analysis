@@ -14,10 +14,15 @@ My repository contains exploratory data analysis on each question that I explore
 
 ## Resources Used
 
-* **Datasets:** https://insights.stackoverflow.com/survey
 * **Python:** Version 3.7
 * **Libraries:** pandas, seaborn, matplotlib, collection
 
 ## Results
 
 My findings can be found [here](https://bhavinpatel0924.medium.com/stackoverflow-survey-2020-analysis-78b0f493bf73) in medium blog post that I wrote.
+
+## Acknowledgements
+
+The datasets used in this analysis can be found below at the Stack Overflow website.
+
+* **Datasets:** https://insights.stackoverflow.com/survey
